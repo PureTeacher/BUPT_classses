@@ -1,1 +1,5 @@
-BUPT 2024级 电信工程及管理专业 计算机程序设计
+BUPT
+Grade 2024
+Homework topic: Tetris
+C language programming
+Author: Sin_qwq
